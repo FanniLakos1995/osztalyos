@@ -26,5 +26,10 @@ namespace ConsoleApplication18
             S3();
             
         }
+
+        private void S3()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
