@@ -22,14 +22,14 @@ namespace ConsoleApplication18
 
         protected virtual void V1()
         {
-            Console.WriteLine("A::V1");
+            
             S3();
             
         }
 
         private void S3()
         {
-            throw new System.NotImplementedException();
+            
         }
     }
 }
